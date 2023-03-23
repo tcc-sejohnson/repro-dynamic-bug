@@ -1,4 +1,5 @@
-export const dynamic = 'auto';
+export const dynamic = 'auto'; // doesn't work here
+
 export default function DynamicLayout({
   children,
 }: {
